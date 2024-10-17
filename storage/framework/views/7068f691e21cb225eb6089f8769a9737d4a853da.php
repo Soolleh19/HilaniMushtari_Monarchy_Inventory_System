@@ -1,0 +1,1 @@
+<?php /**PATH D:\UiTM\Jasin\Sem 6\Project\HilaniMushtari Monarchy Inventory System\HilaniMushtari_Monarchy_Inventory_System\resources\views/Agent/purchase.blade.php ENDPATH**/ ?>
